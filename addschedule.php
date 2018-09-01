@@ -400,7 +400,7 @@ return false;
 </script>
 <script type="text/javascript">
             /*
-            Please consider that the JS part isn't production ready at all, I just code it to show the concept of merging filters and titles together !
+            Please note that the jS part is not production ready, I just code it to show the concept of the merging of filters and titles together !
             */
             $(document).ready(function(){
                 $('.filterable .btn-filter').click(function(){
